@@ -108,7 +108,19 @@ This project is a simple Spring Boot REST API for managing products, including e
    }
 ## **Project Structure**
 
-src ├── main │ ├── java │ │ └── com.example.demo │ │ ├── model │ │ │ └── Product.java │ │ ├── service │ │ │ ├── ProductService.java │ │ │ └── impl │ │ │ └── ProductServiceImpl.java │ │ └── controller │ │ └── ProductController.java └── resources └── application.properties
+src ├── main 
+    │ ├── java 
+    │ │ └── com.example.demo 
+    │ │ ├── model 
+    │ │ │ └── Product.java 
+    │ │ ├── service 
+    │ │ │ ├── ProductService.java 
+    │ │ │ └── impl 
+    │ │ │ └── ProductServiceImpl.java 
+    │ │ └── controller 
+    │ │ └── ProductController.java 
+    └── resources 
+    └── application.properties
 
 ---
 
