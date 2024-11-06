@@ -122,8 +122,6 @@ src ├── main
     └── resources 
     └── application.properties
 
----
-
 This shows the project’s directory layout, reflecting the structure of packages and key files in the application.
 
 ## **Endpoints**
